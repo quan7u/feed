@@ -18,7 +18,7 @@
 
 - 泛化
 
-![用例图](https://github.com/quan7u/feed/blob/main/%E7%94%A8%E4%BE%8B%E5%9B%BE.drawio.svg)
+![用例图](https://github.com/quan7u/feed/blob/main/docs/%E7%94%A8%E4%BE%8B%E5%9B%BE.drawio.svg)
 
 ## 版本考虑
 
